@@ -1,0 +1,12 @@
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\bin\Debug\Applikation.exe
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\bin\Debug\Applikation.pdb
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\MainWindow.baml
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\MainWindow.g.cs
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\App.g.cs
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\Applikation_MarkupCompile.cache
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\Applikation.g.resources
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\ViewModel.Properties.Resources.resources
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\serial console.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\Applikation.exe
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\Applikation.pdb
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\Applikation\obj\Debug\serial console.csprojResolveAssemblyReference.cache

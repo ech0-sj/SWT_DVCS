@@ -1,0 +1,7 @@
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\UnitTesting\bin\Debug\UnitTesting.dll
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\UnitTesting\bin\Debug\UnitTesting.pdb
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\UnitTesting\bin\Debug\Applikation.exe
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\UnitTesting\bin\Debug\Applikation.pdb
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\UnitTesting\obj\Debug\UnitTesting.dll
+D:\Eigene Dateien\Documents\_Entwicklung\Visual Studio\SWT_aufgabeCCD\Applikation\UnitTesting\obj\Debug\UnitTesting.pdb
